@@ -1,5 +1,7 @@
 FROM node:10
 
+MAINTAINER Insight Tech
+
 # Create app directory
 WORKDIR /usr/src/app
 
