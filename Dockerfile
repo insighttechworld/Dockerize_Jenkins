@@ -1,6 +1,6 @@
 FROM node:10
 
-MAINTAINER Insight Tech
+MAINTAINER Olufemi Amosu
 
 # Create app directory
 WORKDIR /usr/src/app
