@@ -1,6 +1,7 @@
 FROM node:latest
 
 MAINTAINER Olufemi Amosu
+MAINTAINER Isnight Tech
 
 # Create app directory
 WORKDIR /usr/src/app
